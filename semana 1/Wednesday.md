@@ -21,3 +21,20 @@ si la temperatura es fahrenheit utilizar la siguiente formula
 imprimir valor 
 fin 
 
+Geometria (Diseña un algoritmo para calcular el volumen de una pirámide, un cubo y una esfera.)
+piramide 
+calcular la longitud de la base 
+calcular el ancho de la base
+calcular la altura de la piramide 
+el valor se define como: 1/3 de la altura, area, base 
+imprimir valor
+
+un cubo 
+preguntar la longitud del cubo
+el valor se devuelve elevado a la 3
+imprimir valor
+
+Una esfera
+preguntar la longitud del radio
+el valor del volumen dado a 4/3 πr³
+imprimir valor en volumen 
