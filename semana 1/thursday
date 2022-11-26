@@ -1,9 +1,0 @@
-Nùmeros (Diseña un algoritmo para comprobar si un número es par o impar. Si es par, escribe que es par, de lo contrario escribe que es impar. Representar el algoritmo en un diagrama de flujo.)
-inicio
-Escribir indique el numero
-leer n
-  si n mood 2==0 entonces
-escribir numero es par 
-sino
-escribir numero es impar
-fin 
