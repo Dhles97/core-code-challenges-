@@ -4,6 +4,15 @@ Escriba indique el numero
 leer n
   si n mood 2==0 entonces
 escribir numero es par
-chino
+si no 
 escribir numero es impar
-aleta
+si no
+
+FECHA DE NACIMIENTO (Escriba un pseudocódigo para un algoritmo que calcule la edad de una persona según su fecha de nacimiento)
+indicar la fecha de nacimiento nombre fecha de nacimiento
+calcular el año y fecha actual nombre datos del año
+edad= fecha de nacimiento- datos del año
+imprimir resultado
+fin
+
+
