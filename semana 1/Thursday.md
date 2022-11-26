@@ -7,6 +7,7 @@ escribir numero es par
 si no 
 escribir numero es impar
 si no
+![ALGORITMO NUMERO](https://user-images.githubusercontent.com/116219412/204096304-eced9e07-baea-423b-999d-c94957ae662d.PNG)
 
 FECHA DE NACIMIENTO (Escriba un pseudocódigo para un algoritmo que calcule la edad de una persona según su fecha de nacimiento)
 indicar la fecha de nacimiento nombre fecha de nacimiento
