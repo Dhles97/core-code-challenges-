@@ -19,11 +19,10 @@ Respuesta// es Bob dice la verdad.
 3.	Preparar el tazon
 4.	Verter el cereal
 5.	Escoger la fruta
-5.1	Escoger la fruta “banano, fresa"
-6.1	Cortar el banano 
-7.1	Agregar el banano al tazon
-6.	verter la leche 
-7.	desayunar
-8.	
+6.	  escoger la fruta (banano, fresa)
+7.	  cortar el banano
+8.	  agregar el banano al tazon
+11.	verter la leche 
+12.	desayunar
 
 
